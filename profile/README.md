@@ -20,6 +20,3 @@ Send some sort of application to [Lumaa](https://github.com/lumaa-dev) on Discor
 
 ## How did you come up with the name?
 The name also comes from the motto *Vast and Fast*, V for Vast and F for Fast, short for VF which is *Voix Française* which means *French voices* (for movies)
-
-## No logo?
-The logo is currently being made by [Lumaa](https://github.com/lumaa-dev)...
