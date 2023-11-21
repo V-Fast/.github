@@ -2,12 +2,13 @@
 <p align="center">Vast and Fast</p>
 
 ## What is V-Fast?
-**V-Fast** is a Minecraft volunteering mod-making team made by [Lumaa](https://github.com/lumaa-dev) and [Tanish](https://github.com/tanishisherewithhh).
+**V-Fast** is a Minecraft volunteering mod-making team made by [Lumaa](https://github.com/lumaa-dev), [Clomclem](https://github.com/Clomclem) and [Tanish](https://github.com/tanishisherewithhh).
 
 ## Who is in V-Fast?
 V-Fast is a small team, and this is only the GitHub account. There are other branches of V-Fast for assets, and others that are NOT listed on the [*People*](https://github.com/orgs/V-Fast/people) tab.\
 Here are all the members of **V-Fast**:
 - [Lumaa](https://github.com/lumaa-dev) - Dev, Assets, Translation Branch
+- [Clomclem](https://github.com/Clomclem) - Dev, Translation Branch
 - [Tanish](https://github.com/tanishisherewithhh) - Dev Branch
 - [Patate Givrée](https://www.youtube.com/@patategivree677) - Assets Branch
 - [Milky](https://twitter.com/Milk_Furr) - Assets Branch
